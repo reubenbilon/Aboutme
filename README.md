@@ -1,97 +1,74 @@
-<p align="center">
-  <img src="Neon%20Data%20Horizon_%20Cyber%20Techscape.png" width="100%" alt="Backend and computer science technology banner">
-</p>
+<!-- Header -->
+<div align="center">
 
-<h3 align="center">Building reliable backends. Learning by shipping.</h3>
+# Reuben Bilon
 
-<p align="center">
-  Backend-focused developer interested in APIs, databases, authentication, and practical software engineering.
-  I enjoy turning ideas into working applications and improving my skills through hands-on projects.
-</p>
+### Backend Engineer
 
-<p align="center">
-  <a href="https://github.com/reubenbilon">GitHub</a> •
-  <a href="https://linkedin.com/in/reuben-bilon">LinkedIn</a>
-</p>
+Backend development · APIs · Databases · System design
+
+[GitHub](https://github.com/reubenbilon) · [LinkedIn](https://linkedin.com/in/reuben-bilon)
+
+</div>
 
 ---
+
+## About
+
+I'm a computer science graduate focused on backend development and practical software engineering. I work with JavaScript, Node.js, databases, and API development, and I'm building experience through hands-on projects.
+
+My current interests include backend architecture, authentication, database design, testing, and deployment.
 
 ## Technical Skills
 
-**Languages**
+| Area | Technologies |
+|---|---|
+| Languages | JavaScript, Python, Java, C, SQL |
+| Backend | Node.js, Express |
+| Web | React, HTML, CSS |
+| Databases | MongoDB, PostgreSQL, Firebase |
+| Tools | Git, Linux, Docker |
+| Cloud | AWS, Azure |
 
-![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-18181b?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-18181b?style=flat-square&logo=postgresql&logoColor=white)
+## Selected Projects
 
-**Backend and Web**
+### BugTrace
+**Backend error monitoring**
 
-![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css3&logoColor=white)
+A monitoring project using Node.js, Express, MongoDB, and Slack alerts to capture and analyze application errors.
 
-**Databases and Tools**
+[Repository →](https://github.com/reubenbilon/BugTrace)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-18181b?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-18181b?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=white)
+### CryptoLink
+**Encryption and QR-code utilities**
 
----
+A web application combining Caesar and monoalphabetic substitution ciphers with QR-code generation.
 
-## Featured Projects
+[Repository →](https://github.com/reubenbilon/CryptoLink)
 
-### 01 · BugTrace
-**Real-time backend error monitoring**
+### Form Validation
+**Validated inputs and automated tests**
 
-A Node.js and Express application using MongoDB and Slack alerts to capture and analyze application errors.
+A form-validation project with email checks, password rules, Material UI feedback, and Jest unit tests.
 
-`Node.js` `Express` `MongoDB` `Slack`
+[Repository →](https://github.com/reubenbilon/blackbird-harrison-ai-validation)
 
-[View Repository →](https://github.com/reubenbilon/BugTrace)
+### Developer Portfolio
+**Personal website**
 
-### 02 · CryptoLink
-**Text encryption and QR-code sharing**
+A personal portfolio built with HTML and CSS and deployed using AWS S3 and CloudFront.
 
-A JavaScript application combining Caesar and monoalphabetic substitution ciphers with QR-code generation.
+[Repository →](https://github.com/reubenbilon/portfolio) · [Live site →](https://bascal-bilon.netlify.app/)
 
-`JavaScript` `Node.js` `Express` `QR Codes`
+## GitHub Activity
 
-[View Repository →](https://github.com/reubenbilon/CryptoLink)
-
-### 03 · Form Validation
-**Email and password validation with tests**
-
-A form-validation project featuring Material UI feedback, email validation, strong-password rules, and Jest unit tests.
-
-`React` `Material UI` `Jest`
-
-[View Repository →](https://github.com/reubenbilon/blackbird-harrison-ai-validation)
-
-### 04 · Developer Portfolio
-**Personal portfolio website**
-
-A personal website built with HTML and CSS and deployed using AWS S3 and CloudFront.
-
-`HTML` `CSS` `AWS S3` `CloudFront`
-
-[View Repository →](https://github.com/reubenbilon/portfolio) · [Live Portfolio](https://bascal-bilon.netlify.app/)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=reubenbilon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b9cff&icon_color=8b9cff&text_color=c9d1d9" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reubenbilon&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b9cff&text_color=c9d1d9" alt="Most used languages" />
+</div>
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reubenbilon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b9cff&icon_color=8b9cff&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reubenbilon&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b9cff&text_color=c9d1d9" alt="Most used languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Focused on learning, building, and writing better software.</i>
-</p>
+<div align="center">
+  <sub>Open to learning, collaboration, and backend engineering opportunities.</sub>
+</div>
