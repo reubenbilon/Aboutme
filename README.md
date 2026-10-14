@@ -1,4 +1,6 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=rect&height=160&color=0:111827,100:312e81&text=REUBEN%20BILON&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=70&descSize=14)
+<p align="center">
+  <img src="Neon%20Data%20Horizon_%20Cyber%20Techscape.png" width="100%" alt="Backend and computer science technology banner">
+</p>
 
 <h3 align="center">Building reliable backends. Learning by shipping.</h3>
 
